@@ -1,0 +1,28 @@
+Space Chaos Workflow/Planned Commits
+
+1. Description/README: Game where the player flies through space avoiding objects at high speed.  Player dies if they collide with an dangerous space object or fall out of warp.
+
+2. Added game menu.
+
+3. Added score counter.
+
+4. Added high score.
+
+5. Added sound effects and background music.
+
+6. Added special effect: background image now scrolls to create the illusion that stars are flying by you.
+
+7. Added abilities: player can now intentionally collide with certain objects to obtain abilities.
+
+8. Added funny random game over messages.
+
+9. Added special effect: collision animation.
+
+V2:
+
+1. Random object speed.  OR Progressive object speed.
+2. Ability for player to choose their ship before starting the game.  
+3. Story mode/arcade mode.
+
+
+
